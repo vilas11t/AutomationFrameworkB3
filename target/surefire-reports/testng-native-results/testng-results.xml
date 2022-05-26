@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="157" started-at="2022-05-17T14:36:17Z" finished-at="2022-05-17T14:36:17Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="157" started-at="2022-05-17T14:36:17Z" finished-at="2022-05-17T14:36:17Z">
+      <class name="MavenJavaProject.MavenJava.RegressionTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:MavenJavaProject.MavenJava.RegressionTest@246ae04d]" name="test1" duration-ms="86" started-at="2022-05-17T20:06:17Z" finished-at="2022-05-17T20:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:MavenJavaProject.MavenJava.RegressionTest@246ae04d]" name="test2" duration-ms="0" started-at="2022-05-17T20:06:17Z" finished-at="2022-05-17T20:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:MavenJavaProject.MavenJava.RegressionTest@246ae04d]" name="test3" duration-ms="0" started-at="2022-05-17T20:06:17Z" finished-at="2022-05-17T20:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- MavenJavaProject.MavenJava.RegressionTest -->
+      <class name="MavenJavaProject.MavenJava.SanityTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:MavenJavaProject.MavenJava.SanityTest@2ef9b8bc]" name="test1" duration-ms="1" started-at="2022-05-17T20:06:17Z" finished-at="2022-05-17T20:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:MavenJavaProject.MavenJava.SanityTest@2ef9b8bc]" name="test2" duration-ms="1" started-at="2022-05-17T20:06:17Z" finished-at="2022-05-17T20:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:MavenJavaProject.MavenJava.SanityTest@2ef9b8bc]" name="test3" duration-ms="1" started-at="2022-05-17T20:06:17Z" finished-at="2022-05-17T20:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- MavenJavaProject.MavenJava.SanityTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
